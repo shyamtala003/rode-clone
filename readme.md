@@ -7,7 +7,7 @@
 ![](./screenshot/1.png)
 
 
-### I made [PAYTM ](https://paytm.com/) home page clone using Tailwind css only
+### I made [rode.com ](https://rode.com/en) home page clone using Tailwind css only
 
 >I Deployed my Project on Netlify and Vercel. so you can check it out 👇
 <br> [https://rrode.netlify.app/](https://rrode.netlify.app/) `recommended`
